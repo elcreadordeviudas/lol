@@ -1,0 +1,19 @@
+head{
+	  font-family: Anton, "sans-serif";
+	  background: url(https://comitan.tecnm.mx/images/diseno/logo_tecnm_blanco.png);
+}
+
+body {
+  padding-left: 2em;
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+  background: url(http://www.solofondos.com/wp-content/uploads/2015/11/Imagen-de-fondo-html.jpg);
+
+}
+
+.caja1{
+	width: 500px;
+	height: 200px;
+	background-color: red;
+	
+}
